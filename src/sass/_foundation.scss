@@ -18,7 +18,7 @@ html {
 }
 body {
 	margin: 0;
-	font: 16px/1 $sans-serif;
+	font: 16px/1 $body-font;
 }
 iframe {
 	border: 0;
@@ -61,7 +61,7 @@ sup {
 a,
 button {
 	color: inherit;
-	transition: $global-transition-duration;
+	transition: $transition-duration;
 }
 a {
 	text-decoration: none;
