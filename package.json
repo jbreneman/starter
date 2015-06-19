@@ -1,0 +1,14 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "Starter files for projects.",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.12.4",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-livereload": "^3.8.0",
+    "gulp-sass": "^2.0.1",
+    "jshint-stylish": "^2.0.0"
+  }
+}
